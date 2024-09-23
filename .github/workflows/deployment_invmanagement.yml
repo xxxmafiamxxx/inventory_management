@@ -90,7 +90,5 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_469D25F6DAEC4F91807805EB6AFC5D0D }}
 
-      - name: Check application status
-        run: |
-          curl -I https://${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
         
