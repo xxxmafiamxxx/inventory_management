@@ -64,8 +64,10 @@ jobs:
       - name: Create .env file with environment variables
         env:
           SECRET_KEY: ${{ secrets.SECRET_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
         run: |
           echo "SECRET_KEY=${SECRET_KEY}" > inventory_management_system/.env
+          echo "DATABASE_URL=${DATABASE_URL}" >> inventory_management_system/.env
 
       - name: Run database migrations
         run: |
