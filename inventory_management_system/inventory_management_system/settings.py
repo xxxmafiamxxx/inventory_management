@@ -37,7 +37,8 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = ['invmanagement.azurewebsites.net']
+ALLOWED_HOSTS = ['invmanagement-geajd4gubhghcyfz.francecentral-01.azurewebsites.net', 'localhost', '127.0.0.1', '[::1]']
+
 
 
 # Application definition
@@ -61,7 +62,6 @@ MIDDLEWARE = [
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
-    "whitenoise.middleware.WhiteNoiseMiddleware",
 ]
 
 ROOT_URLCONF = "inventory_management_system.urls"
