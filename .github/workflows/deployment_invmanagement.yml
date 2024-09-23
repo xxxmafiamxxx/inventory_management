@@ -81,11 +81,6 @@ jobs:
           source ../venv/bin/activate
           python manage.py collectstatic --noinput
       
-      - name: Start Gunicorn server
-        run: |
-          cd inventory_management_system
-          chmod +x ../start.sh
-          ../start.sh
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v3
