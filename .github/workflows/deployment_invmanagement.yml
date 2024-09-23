@@ -93,3 +93,4 @@ jobs:
       - name: Check application status
         run: |
           curl -I https://${{ steps.deploy-to-webapp.outputs.webapp-url }}
+        
