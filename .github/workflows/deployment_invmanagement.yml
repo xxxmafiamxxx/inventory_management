@@ -30,10 +30,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
         
-      - name: |
+      - name: pack staticfiles
+        run: |
           cd inventory_management_system
-          pack staticfiles
-        run: python manage.py collectstatic --clear --noinput
+          python manage.py collectstatic --clear --noinput
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
 
       - name: Zip artifact for deployment
