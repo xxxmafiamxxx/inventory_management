@@ -61,11 +61,11 @@ jobs:
           source venv/bin/activate
           pip install -r requirements.txt
 
-      - name: Inject environment variables from GitHub Secrets
+      - name: Create .env file with environment variables
         env:
           SECRET_KEY: ${{ secrets.SECRET_KEY }}
         run: |
-          echo "SECRET_KEY=${SECRET_KEY}" >> .env
+          echo "SECRET_KEY=${SECRET_KEY}" > inventory_management_system/.env
 
       - name: Run database migrations
         run: |
