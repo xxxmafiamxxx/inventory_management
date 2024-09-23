@@ -2,3 +2,4 @@
 ~$business_dataset.xlsx
 .env
 django_debug.log
+~$__pycache__
