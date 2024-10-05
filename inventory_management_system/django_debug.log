@@ -3932,3 +3932,66 @@ File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib
 File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1726956718.6180835
 File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1726956718.6180835
 File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\views\csrf.py first seen with mtime 1726956718.7591755
+File C:\Users\Mafia\anaconda3\Lib\encodings\idna.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\Desktop\project_1_depi\inventory_management_system\inventory_management_system\wsgi.py first seen with mtime 1726952117.808108
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\mssql\compiler.py first seen with mtime 1726956731.3012326
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1726956718.6423447
+File C:\Users\Mafia\anaconda3\Lib\stringprep.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\whitenoise\storage.py first seen with mtime 1727001865.7460325
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1726956718.2057443
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1726956718.7090082
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\whitenoise\compress.py first seen with mtime 1727001865.7460325
+"GET / HTTP/1.1" 200 1285
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1726956717.9770708
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1726956717.9770708
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1726956717.9770708
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\template\context_processors.py first seen with mtime 1726956718.7145166
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1726956717.9770708
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1726956718.2057443
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1726956717.2325866
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 179
+Not Found: /amdin
+"GET /amdin HTTP/1.1" 404 179
+"GET /admin/ HTTP/1.1" 200 9143
+"GET /static/admin/css/base.9f65b5cd54b3.css HTTP/1.1" 200 4890
+"GET /static/admin/css/dark_mode.e18e9a052429.css HTTP/1.1" 200 772
+"GET /static/admin/css/nav_sidebar.dd925738f4cc.css HTTP/1.1" 200 811
+"GET /static/admin/js/nav_sidebar.3b9190d420b1.js HTTP/1.1" 200 845
+"GET /static/admin/css/responsive.eafb93ff084c.css HTTP/1.1" 200 3370
+"GET /static/admin/css/dashboard.e90f2068217b.css HTTP/1.1" 200 267
+"GET /static/admin/js/theme.ab270f56bb9c.js HTTP/1.1" 200 605
+"GET /static/admin/img/icon-addlink.d519b3bab011.svg HTTP/1.1" 200 206
+"GET /static/admin/img/icon-changelink.18d2fd706348.svg HTTP/1.1" 200 269
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\tzdata\__init__.py first seen with mtime 1726951534.091247
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\_itertools.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\zipfile\_path\__init__.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1726956716.436688
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\abc.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1726951534.1286738
+File C:\Users\Mafia\anaconda3\Lib\zipfile\__init__.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\_legacy.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\readers.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\importlib\readers.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\_common.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\__init__.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\importlib\resources\_adapters.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\anaconda3\Lib\zipfile\_path\glob.py first seen with mtime 1717698404.0
+File C:\Users\Mafia\Desktop\project_1_depi\venv\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1726956716.436688
+"GET /admin/inventory/salesfact/ HTTP/1.1" 200 38548
+"GET /static/admin/css/changelists.47cb433b29d4.css HTTP/1.1" 200 1619
+"GET /static/admin/js/vendor/jquery/jquery.min.2c872dbe60f4.js HTTP/1.1" 200 30336
+"GET /static/admin/js/jquery.init.b7781a0897fc.js HTTP/1.1" 200 236
+"GET /static/admin/js/core.7e257fdf56dc.js HTTP/1.1" 200 1550
+"GET /static/admin/js/admin/RelatedObjectLookups.ef211845e458.js HTTP/1.1" 200 2325
+"GET /static/admin/js/actions.867b023a736d.js HTTP/1.1" 200 1937
+"GET /static/admin/js/urlify.ae970a820212.js HTTP/1.1" 200 2578
+"GET /static/admin/js/prepopulate.bd2361dfd64d.js HTTP/1.1" 200 536
+"GET /static/admin/js/vendor/xregexp/xregexp.min.f1ae4617847c.js HTTP/1.1" 200 46360
+"GET /static/admin/js/filters.0e360b7a9f80.js HTTP/1.1" 200 502
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/tooltag-add.e59d620a9742.svg HTTP/1.1" 200 203
+"GET /admin/inventory/category/ HTTP/1.1" 200 10741
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/inventory/customer/ HTTP/1.1" 200 38924
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
